@@ -1,2 +1,2 @@
-# amogusp_laces URL
+# amogus_places URL
 https://amogusplaces.web.app/
